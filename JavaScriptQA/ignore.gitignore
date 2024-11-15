@@ -1,1 +1,4 @@
-C:\Users\user\Desktop
+# Ignore everything in the root directory, then explicitly allow specific files
+/*
+!/.gitignore
+!C:/Users/user/Desktop/JavaScriptQA/*
