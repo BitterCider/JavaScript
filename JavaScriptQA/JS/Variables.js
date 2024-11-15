@@ -1,3 +1,5 @@
+// Variables:
+
 //1.
 let fullName1 = "Tal Baruchi";
 var fullName2 = "Tal Baruchi";
@@ -14,5 +16,5 @@ console.log(Age);
 const Bday = "17.07.1995";
 console.log(Bday);
 
-//4.
-//test
+
+
