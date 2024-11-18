@@ -15,6 +15,3 @@ console.log(Age);
 //3.
 const Bday = "17.07.1995";
 console.log(Bday);
-
-
-
