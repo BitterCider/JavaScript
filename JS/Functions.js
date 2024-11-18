@@ -41,6 +41,6 @@ console.log(isElligable(person1));
 console.log(isElligable(person2));
 
 
-for (let key in person) {
-    console.log(person[key])
+for (let key in person1) {
+    console.log(person1[key])
 }
