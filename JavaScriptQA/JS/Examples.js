@@ -65,18 +65,18 @@ let dream = function () {
 };
 console.log(typeof dream); // is of type 'function'
 
-// loops:
+//loops:
 //for loops:
-//         start; while; step
-//for (let i = 1; i < 5; i++) {
-  //   console.log(i)
-  // }
-  // //while loops:
-  // let counter = 1
-  // while(counter < 10) {
-  //   console.log(counter)
-  //   counter++
-//}
+//        start; while; step
+for (let i = 1; i < 5; i++) {
+    console.log(i)
+  }
+  //while loops:
+  let counter = 1
+  while(counter < 10) {
+    console.log(counter)
+    counter++
+}
 
 //while do loops:
 // let num = 1;
