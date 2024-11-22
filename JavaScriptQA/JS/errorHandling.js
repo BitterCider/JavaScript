@@ -34,6 +34,7 @@ try {
   objectPrint(person, "blol");
   objectPrint(pen, "blol");
 
+  
 } catch (error) {
   console.log("Error: No such object"); //Immediately catch ReferenceError of object
 }
